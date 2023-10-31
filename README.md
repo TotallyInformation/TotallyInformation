@@ -18,6 +18,7 @@ Professionally, I am the IT Head of Architecture for NHS England. Check out our 
 
 - 🕜 [node-red-contrib-moment](https://github.com/TotallyInformation/node-red-contrib-moment) - Nodes to make use of the MomentJS date/time handling library in Node-RED
 
+- 🧪 [Testbed for Node-RED custom nodes](https://github.com/TotallyInformation/uib-template-test) - Embodying more up-to-date thinking than the test nodes, a blank playground
 - 🧪 [Test Nodes for Node-RED](https://github.com/TotallyInformation/uib-template-test) - Some test nodes for Node-RED that help you understand how everything works
 
 - 🚤 [HotNipi Gauge Web Component](https://github.com/TotallyInformation/gauge-hotnipi) - A really nice looking gauge component. Works with Node-RED, UIBUILDER, or stand-alone

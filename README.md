@@ -18,7 +18,7 @@ Professionally, I am the IT Head of Architecture for NHS England. Check out our 
 
 - 🕜 [node-red-contrib-moment](https://github.com/TotallyInformation/node-red-contrib-moment) - Nodes to make use of the MomentJS date/time handling library in Node-RED
 
-- [Alternate Node-RED installer](https://github.com/TotallyInformation/alternate-node-red-installer) - Some scripts and example configs for running Node-RED locally instead of globally and having the userDir as a child folder so that everything can be easily backed up and restored from a single project folder.
+- 🧙 [Alternate Node-RED installer](https://github.com/TotallyInformation/alternate-node-red-installer) - Some scripts and example configs for running Node-RED locally instead of globally and having the userDir as a child folder so that everything can be easily backed up and restored from a single project folder.
 
 - 🧪 [Testbed for Node-RED custom nodes](https://github.com/TotallyInformation/Node-RED-Testbed) - Embodying more up-to-date thinking than the test nodes, a blank playground
 - 🧪 [Test Nodes for Node-RED](https://github.com/TotallyInformation/uib-template-test) - Some test nodes for Node-RED that help you understand how everything works

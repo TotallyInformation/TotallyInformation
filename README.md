@@ -1,6 +1,6 @@
-🔭 In my very limited spare time, I’m currently working on [node-red-contrib-uibuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder). A really simple way to create data-driven web apps with the help of [Node-RED](https://nodered.org/), a low-code programming tool for creating event-driven applications.
+Totally Information is a trading name used by Julian Knight. Professionally, I am a Senior Enterprise Architect & the Lead Technology Assessor for NHS England.
 
-Professionally, I am an Enterprise Architect for NHS England. Check out our [IT Standards](https://nhsengland.github.io/it-standards/#/) repository.
+🔭 In my very limited spare time, I’m currently mostly working on [node-red-contrib-uibuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) and my [web components library](https://github.com/TotallyInformation/web-components). A really simple way to create data-driven web apps with the help of [Node-RED](https://nodered.org/), a low-code programming tool for creating event-driven applications.
 
 ## Key Totally Information Repos
 
@@ -27,3 +27,8 @@ Professionally, I am an Enterprise Architect for NHS England. Check out our [IT 
 - 🚤 [HotNipi Gauge Web Component](https://github.com/TotallyInformation/gauge-hotnipi) - A really nice looking gauge component. Works with Node-RED, UIBUILDER, or stand-alone.
 
 - 🧪 [Array Grouper](https://github.com/TotallyInformation/groupit) - Stand-alone function to reshape an array of objects.
+
+## Other Links
+
+- [Totally Information's Blog](https://www.totallyinformation.net)
+- [Julian's old Blog](https://it.knightnet.org.uk)

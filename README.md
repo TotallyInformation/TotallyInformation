@@ -1,6 +1,6 @@
 Totally Information is a trading name used by Julian Knight. Professionally, I am a Senior Enterprise Architect & the Lead Technology Assessor for NHS England.
 
-🔭 In my very limited spare time, I’m currently mostly working on [node-red-contrib-uibuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) and my [web components library](https://github.com/TotallyInformation/web-components). A really simple way to create data-driven web apps with the help of [Node-RED](https://nodered.org/), a low-code programming tool for creating event-driven applications.
+🔭 In my very limited spare time, I’m currently mostly working on [node-red-contrib-uibuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) and my [web components library](https://github.com/TotallyInformation/web-components). UIBUILDER for Node-RED is a really simple way to create data-driven web apps with the help of [Node-RED](https://nodered.org/), a low-code programming tool for creating event-driven applications. The web components library complements and provides widgets for UIBUILDER but is completely independent and can be used with any or no front-end framework and browser that supports modern HTML.
 
 ## Key Totally Information Repos
 
